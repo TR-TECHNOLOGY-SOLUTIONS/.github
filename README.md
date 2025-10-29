@@ -43,8 +43,8 @@ A passionate group of developers, designers, and strategists committed to buildi
 ## 📬 Contact Us
 
 - **Location:** Jammu, India  
-- **Email:** [info@trtechnologysolution.com](mailto:info@trtechnologysolution.com)  
-- **Website:** [www.trtechnologysolution.com](https://www.trtechnologysolution.com)
+- **Email:** [info@trtsindia@gmail.com](mailto:trtsindia@gmail.com)  
+- **Website:** [www.trtechnologysolution.in](https://www.trtechnologysolution.in)
 
 ---
 
