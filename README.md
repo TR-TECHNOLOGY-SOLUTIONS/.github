@@ -44,7 +44,7 @@ A passionate group of developers, designers, and strategists committed to buildi
 
 - **Location:** Jammu, India  
 - **Email:** [info@trtsindia@gmail.com](mailto:trtsindia@gmail.com)  
-- **Website:** [www.trtechnologysolution.in](https://www.trtechnologysolution.in)
+- **Website:** [https://trtechnologysolutions.in/](https://trtechnologysolutions.in/)
 
 ---
 
